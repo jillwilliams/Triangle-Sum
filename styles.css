@@ -1,0 +1,28 @@
+body {
+    font-family: "Shadows Into Light", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(blue, navy);
+    color: yellow;
+
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+#img1, #img2, #img3, #img4, #img5, #img6 {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px black solid;
+    outline: 1px yellow solid;
+    margin-top: 25px;
+}
+#p1 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
