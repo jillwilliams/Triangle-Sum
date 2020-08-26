@@ -5,7 +5,6 @@ body {
     margin: 15px 35px 45px 35px;
     background-image: linear-gradient(blue, navy);
     color: yellow;
-
 }
 h1 {
     text-align: center;
@@ -22,6 +21,11 @@ h1 {
 }
 #p1 {
     text-align: center;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px yellow solid;
 }
 footer {
     text-align: center;
